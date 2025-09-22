@@ -2,7 +2,7 @@
 
 An **end-to-end machine learning project** for predicting customer churn in the telecom industry. This project is based on the [Telecom Churn Dataset](https://www.kaggle.com/datasets/barun2104/telecom-churn).
 
----
+--
 
 ## 🚀 Project Overview
 
