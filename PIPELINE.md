@@ -2,7 +2,6 @@
 
 Perfect 🎉 You’ve just run a **full ML pipeline** for churn prediction! Let me explain **what each step did and why**, in the same order we coded it.
 
----
 
 ## 🔎 Step-by-Step Explanation
 
@@ -173,7 +172,6 @@ Perfect 🎉 You’ve just run a **full ML pipeline** for churn prediction! Let 
   * Metadata captures what was run (reproducibility).
   * The helper script makes deployment or batch scoring easy.
 
----
 
 ✅ In summary:
 
