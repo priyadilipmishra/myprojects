@@ -2,6 +2,7 @@
 
 An **end-to-end machine learning project** for predicting customer churn in the telecom industry. This project is based on the [Telecom Churn Dataset](https://www.kaggle.com/datasets/barun2104/telecom-churn).
 
+For a detailed explanation of every step in the pipeline, see PIPELINE.md.
 
 ## 🚀 Project Overview
 
@@ -31,7 +32,7 @@ An **end-to-end machine learning project** for predicting customer churn in the 
 ## 📂 Repository Structure
 
 ```bash
-telecom-churn/
+customer_churn/
 ├── artifacts/                # Saved models & pipeline
 │   ├── model.pkl
 │   ├── preprocessor.pkl
