@@ -46,9 +46,13 @@ customer_churn/
 │   ├── classification_report.csv
 │   ├── correlation_numeric.png
 │   └── ...
-├── churn_pipeline.py         # Main end-to-end script
+├── churn_pipeline.ipynb      # Main end-to-end notebook
+├── churn_pipeline.py         # Script version of pipeline
 ├── README.md                 # Project documentation
-└── requirements.txt          # Python dependencies
+├── requirements.txt          # Python dependencies
+└── docs/
+    └── PIPELINE.md           # Step-by-step explanation
+
 ```
 
 
