@@ -42,17 +42,19 @@ customer_churn/
 ├── reports/                  # EDA plots & metrics
 │   ├── summary.json
 │   ├── cv_baselines.json
-│   ├── holdout_metrics.json
-│   ├── classification_report.csv
+│   ├── val_metrics.json
+│   ├── test_metrics.json
+│   ├── classification_report_test.csv
 │   ├── correlation_numeric.png
 │   └── ...
+├── data/                     # Raw dataset
+│   └── telecom_churn.csv
 ├── churn_pipeline.ipynb      # Main end-to-end notebook
-├── churn_pipeline.py         # Script version of pipeline
+├── churn_pipeline.py         # (Optional) Script version of pipeline
 ├── README.md                 # Project documentation
 ├── requirements.txt          # Python dependencies
 └── docs/
     └── PIPELINE.md           # Step-by-step explanation
-
 ```
 
 
